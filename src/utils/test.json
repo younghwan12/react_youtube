@@ -1,0 +1,170 @@
+{
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 104028,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCE-HEbBWeyVUjfuYunandwg"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-20T19:09:56Z",
+        "channelId": "UCE-HEbBWeyVUjfuYunandwg",
+        "title": "ArsnaL",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0hj31C389cuCZH9vk007rZBtt6jZvxmlQtJKcRzjdaoPH5FuBSEWFl0w8sTc1ui8nrV4RGoe=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0hj31C389cuCZH9vk007rZBtt6jZvxmlQtJKcRzjdaoPH5FuBSEWFl0w8sTc1ui8nrV4RGoe=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0hj31C389cuCZH9vk007rZBtt6jZvxmlQtJKcRzjdaoPH5FuBSEWFl0w8sTc1ui8nrV4RGoe=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "ArsnaL",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2015-02-20T19:09:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fDYnJRhv_fs"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-08T21:14:02Z",
+        "channelId": "UCpryVRk_VDudG8SHXgWcG0w",
+        "title": "HIGHLIGHTS | Nurnberg v Arsenal (3-5) | Jesus (2), Elneny",
+        "description": "New signing Gabriel Jesus scored 90 seconds into his non-competitive debut to trigger an extraordinary turnaround in Germany.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fDYnJRhv_fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fDYnJRhv_fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fDYnJRhv_fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arsenal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-08T21:14:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hk0Jx_7mfyw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-04T16:33:00Z",
+        "channelId": "UCrOzdCypDyKNm79W5tGqpsw",
+        "title": "SQUAD ARSNAL 2022/23 Ft. Gabriel Jesus || Update Squad ARSENAL",
+        "description": "SQUAD ARSNAL 2022/23 Ft. Gabriel Jesus || Update Squad ARSENAL #arsenal.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hk0Jx_7mfyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hk0Jx_7mfyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hk0Jx_7mfyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DARA TILLA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-04T16:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Of9_0OEq9DQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T18:03:28Z",
+        "channelId": "UCWf7prs03RhgFfC5Aind0Ww",
+        "title": "“The quadruple’s over, but the treble is still on!”",
+        "description": "shorts #aftv #aftvxtra #arsenal.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Of9_0OEq9DQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Of9_0OEq9DQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Of9_0OEq9DQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AFTV Xtra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T18:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FccjiCyFyzg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T14:47:27Z",
+        "channelId": "UCu10ihD3ldjBI38oSKKLdmw",
+        "title": "arsenal 🥰",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FccjiCyFyzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FccjiCyFyzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FccjiCyFyzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "pazhkapes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T14:47:27Z"
+      }
+    }
+  ]
+}
