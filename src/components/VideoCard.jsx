@@ -10,7 +10,7 @@ const VideoCard = ({
   return (
     <div className="box">
       <Link to={`/video/${videoId}`}>
-        <img src={snippet?.thumbnails?.high?.url} alt={snippet?.title} />
+        <img src={snippet?.thumbnails?.medium?.url} alt={snippet?.title} />
       </Link>
       <div className="boxInfo">
         <Link to={`/video/${videoId}`} className="videoTitle">

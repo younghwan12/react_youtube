@@ -52,6 +52,10 @@
     height: 500px;
     background: #fff;
     .desc {
+      a {
+        color: #ea3323;
+        font-size: 18px;
+      }
       h2 {
         color: #fff;
         white-space: nowrap;
@@ -59,12 +63,15 @@
         text-overflow: ellipsis;
         margin-bottom: 15px;
       }
-      p {
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
+      .channel {
+        color: #e5e5e5;
+      }
+      .desc__box1 {
+        display: flex;
+        justify-content: flex-end;
+        .likeCount {
+          margin-right: 10px;
+        }
       }
     }
   }
@@ -75,7 +82,11 @@
     .list {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
+
+      img {
+        min-height: 120px;
+      }
 
       a {
         width: 34%;
@@ -88,22 +99,20 @@
       .list__box {
         width: 64%;
         color: #000;
-        padding: 11px 0;
 
         .list__tit {
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
-          color: #fff;
           margin-bottom: 10px;
-        }
-        .list__desc {
           overflow: hidden;
           text-overflow: ellipsis;
           display: -webkit-box;
-          -webkit-line-clamp: 3;
+          -webkit-line-clamp: 2;
           -webkit-box-orient: vertical;
+        }
+        .list__desc {
           color: #ea3323;
+        }
+        .list__time {
+          color: #fff;
         }
       }
     }
